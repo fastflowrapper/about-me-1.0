@@ -80,6 +80,7 @@ p {
   flex-flow: column nowrap;
   width: 50%;
   max-width: 500px;
+  min-width: 300px;
 }
 
 .avatar-image {
